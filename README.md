@@ -2,7 +2,7 @@
 
 Demo link : http://amita.epizy.com/Electronics/index.php
 
-Admin username : amit
+Admin username : amit \n
 Admin password : amit
 
 ![Screenshot from 2021-05-13 13-58-17](https://user-images.githubusercontent.com/62344675/118100585-43740080-b3f4-11eb-9c3d-ce4ef98644c2.png)
