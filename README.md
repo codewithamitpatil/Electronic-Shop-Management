@@ -4,7 +4,7 @@ Demo link : http://amita.epizy.com/Electronics/index.php
 
 Admin username : amit <br>
 Admin password : amit
-
+                                                       <h1>Home Page</h1>
 ![Screenshot from 2021-05-13 13-58-17](https://user-images.githubusercontent.com/62344675/118100585-43740080-b3f4-11eb-9c3d-ce4ef98644c2.png)
 ![Screenshot from 2021-05-13 13-58-33](https://user-images.githubusercontent.com/62344675/118100592-453dc400-b3f4-11eb-9861-32aede4439b0.png)
 ![Screenshot from 2021-05-13 13-58-42](https://user-images.githubusercontent.com/62344675/118100596-466ef100-b3f4-11eb-9565-8777495a0d20.png)
